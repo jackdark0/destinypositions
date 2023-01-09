@@ -1,10 +1,12 @@
 ---
-id: current_events
-title: Current Events
+id: hotTakes
+title: Hot Takes
 description: My arguments about recent events and the prevailing narratives around them.
 ---
 
-## Breonna Taylor
+
+## BLM
+## ## Breonna Taylor
 
 It is stated that Breonna Taylor was killed in her bed or while asleep almost ubiquitously across social media ( [1](https://twitter.com/repkarenbass/status/1282485401144291328?lang=en) | [2](https://twitter.com/aclu/status/1370741199804456963) | [3](https://twitter.com/mireikaedwards/status/1269733187149639680?lang=en) | [4](https://twitter.com/astrotoya/status/1269965102104686594?lang=en) | [5](https://twitter.com/sensherrodbrown/status/1308877544012341256?lang=en) | [6](https://twitter.com/ColorOfChange/status/1370729137552375808) | [7](https://twitter.com/whitney_hu/status/1372027994303307784) | [8](https://twitter.com/edmarkey/status/1308833811476684804?lang=en) | [9](https://twitter.com/jduffyrice/status/1266844052332388352?lang=en) ) despite this not being the truth. What happened to Breonna Taylor was wrong, and the police conduct that day deserves to be called into question. However, starting that discussion with an incorrect description of what happened weakens our arguments against those on the right that disagree with us. This is because we now have to begin by making concessions about lies or misrepresentations from people who purport to agree with us. Furthermore, it casts doubt about the truth of the rest of the argument for those in the middle who are unsure of where the fault lies.
 
@@ -24,17 +26,7 @@ The claims we should be making about Breonna Taylor's death, which are grounded 
 - Brett Hankison, one of the officers involved in the raid, was [rightfully fired and charged](https://wfpl.org/brett-hankison-charged-with-wanton-endangerment-has-history-of-misconduct/#:~:text=Former%20Louisville%20Metro%20Police%20Officer,to%20serve%20a%20search%20warrant.) for exiting the building and blindly firing 10 rounds into the apartment complex through a window and a patio, penetrating the apartment into the next unit where another occupant and their child slept.
 - Even if they aren't used for every single interaction, this incident shows the value of having police body cameras in specific, high-risk scenarios.
 
-## The GameStop short squeeze
-
-I've written extensively on my view of the wallstreetbets "fight" with Melvin Capital over the GameStop stock. The summary of my position is essentially the following:
-- There was never any reason to believe a massive short squeeze was coming.
-- The big winners were not "little retail traders."
-- Robinhood did not halt trading to "protect hedge funds."
-- Most alternative media figures/outlets got many fundamental facts of the case wrong.
-
-For a longer and more formal write-up of my view on the GME situation, see my write-up here: **[BrainStop](https://docs.google.com/document/d/1nFKt9Vd7bYsVSCIDwbXxrtUFTuJEFJbiOpEAgc2uw5k)**. I've also done a [video review](https://www.youtube.com/watch?v=DHM4gFiem7s) of said document on my YouTube channel.
-
-## Kyle Rittenhouse ("mowing down protestors")
+## ## Kyle Rittenhouse ("mowing down protestors")
 
 *Also see: [protesting & rioting](./philosophy#protesting--rioting), [defense of property](./philosophy#defense-of-property)*
 
@@ -51,3 +43,13 @@ I have continually defended protesting, and even rioting against public institut
 My specific issue in this debate was that I didn't believe it was morally acceptable to defend rioters destroying private businesses, regardless of their legitimate grievances with the local police. When I think of rioters attacking and destroying private property, I generally support citizens' rights to defend that property. I think back to the [Korean-Americans that were defending their property](https://www.youtube.com/watch?v=OCYT9Hew9ZU) in the '92 LA Riots, the Black Panthers in California [defending their communities](https://www.youtube.com/watch?v=uZlnZCpXfpQ), or the tragedy of the ["Black Wall Street" Tulsa massacre in 1921](https://www.youtube.com/watch?v=x-ItsPBTFO0). I was especially moved by the frustrated, black local business owner who was [screaming out](https://www.youtube.com/watch?v=wxK8VzylOrQ) in frustration about looters and rioters destroying his business in the '92 LA Riots.
 
 It's incredibly frustrating that people have intentionally and maliciously misconstrued a 16 second cut from a larger conversation to make it sound as though I don't support the BLM protests or somehow approve of racist white people indiscriminately killing protesters when this is an issue that I have been ruthlessly consistent on throughout the years. I unequivocally support BLM's right to both protest and riot against the public institutions that they view as oppressive. I have not changed or wavered on this stance in years.
+
+## The GameStop short squeeze
+
+I've written extensively on my view of the wallstreetbets "fight" with Melvin Capital over the GameStop stock. The summary of my position is essentially the following:
+- There was never any reason to believe a massive short squeeze was coming.
+- The big winners were not "little retail traders."
+- Robinhood did not halt trading to "protect hedge funds."
+- Most alternative media figures/outlets got many fundamental facts of the case wrong.
+
+For a longer and more formal write-up of my view on the GME situation, see my write-up here: **[BrainStop](https://docs.google.com/document/d/1nFKt9Vd7bYsVSCIDwbXxrtUFTuJEFJbiOpEAgc2uw5k)**. I've also done a [video review](https://www.youtube.com/watch?v=DHM4gFiem7s) of said document on my YouTube channel.
