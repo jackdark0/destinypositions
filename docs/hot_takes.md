@@ -6,7 +6,7 @@ description: My arguments about recent events and the prevailing narratives arou
 
 
 ## BLM
-## ## Breonna Taylor
+#### Breonna Taylor
 
 It is stated that Breonna Taylor was killed in her bed or while asleep almost ubiquitously across social media ( [1](https://twitter.com/repkarenbass/status/1282485401144291328?lang=en) | [2](https://twitter.com/aclu/status/1370741199804456963) | [3](https://twitter.com/mireikaedwards/status/1269733187149639680?lang=en) | [4](https://twitter.com/astrotoya/status/1269965102104686594?lang=en) | [5](https://twitter.com/sensherrodbrown/status/1308877544012341256?lang=en) | [6](https://twitter.com/ColorOfChange/status/1370729137552375808) | [7](https://twitter.com/whitney_hu/status/1372027994303307784) | [8](https://twitter.com/edmarkey/status/1308833811476684804?lang=en) | [9](https://twitter.com/jduffyrice/status/1266844052332388352?lang=en) ) despite this not being the truth. What happened to Breonna Taylor was wrong, and the police conduct that day deserves to be called into question. However, starting that discussion with an incorrect description of what happened weakens our arguments against those on the right that disagree with us. This is because we now have to begin by making concessions about lies or misrepresentations from people who purport to agree with us. Furthermore, it casts doubt about the truth of the rest of the argument for those in the middle who are unsure of where the fault lies.
 
@@ -26,7 +26,7 @@ The claims we should be making about Breonna Taylor's death, which are grounded 
 - Brett Hankison, one of the officers involved in the raid, was [rightfully fired and charged](https://wfpl.org/brett-hankison-charged-with-wanton-endangerment-has-history-of-misconduct/#:~:text=Former%20Louisville%20Metro%20Police%20Officer,to%20serve%20a%20search%20warrant.) for exiting the building and blindly firing 10 rounds into the apartment complex through a window and a patio, penetrating the apartment into the next unit where another occupant and their child slept.
 - Even if they aren't used for every single interaction, this incident shows the value of having police body cameras in specific, high-risk scenarios.
 
-## ## Kyle Rittenhouse ("mowing down protestors")
+#### Kyle Rittenhouse ("mowing down protestors")
 
 *Also see: [protesting & rioting](./philosophy#protesting--rioting), [defense of property](./philosophy#defense-of-property)*
 
